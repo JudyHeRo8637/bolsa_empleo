@@ -1,0 +1,1 @@
+SELECT * FROM bolsa_empleo.aspirantes;
